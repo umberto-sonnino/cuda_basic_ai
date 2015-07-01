@@ -1,0 +1,1 @@
+extern "C" float DoSomethingInCuda(float v);
